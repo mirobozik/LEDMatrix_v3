@@ -3,7 +3,6 @@ See Sprite Generator on Plunker
 http://embed.plnkr.co/3VUsekP3jC5xwSIQDVHx/preview
 */
 #include <MaxMatrix.h>
-#include <avr/pgmspace.h>
 
 //PINS setup
 #define PIN_DIN 8
